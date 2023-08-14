@@ -183,11 +183,11 @@ body {
 }
 
 #login .logo {
-    background: var(--logo);
+/*    background: var(--logo);
     background-size: contain;
     padding: 2rem;
     border-radius: 0;
-    margin: 0rem 1rem 0rem 1rem;
+    margin: 0rem 1rem 0rem 1rem; */
 }
 #login .error {
     animation-name: shake;
